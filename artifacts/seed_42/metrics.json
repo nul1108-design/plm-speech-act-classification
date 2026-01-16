@@ -1,0 +1,23 @@
+{
+  "seed": 42,
+  "valid": {
+    "eval_loss": 0.7266187071800232,
+    "eval_accuracy": 0.98989898989899,
+    "eval_recall_indirect(1)": 0.5,
+    "eval_macro_f1": 0.8307692307692307,
+    "eval_runtime": 0.5502,
+    "eval_samples_per_second": 179.919,
+    "eval_steps_per_second": 7.269,
+    "epoch": 5.0
+  },
+  "test": {
+    "eval_loss": 0.6032083034515381,
+    "eval_accuracy": 0.98,
+    "eval_recall_indirect(1)": 0.5,
+    "eval_macro_f1": 0.7448979591836735,
+    "eval_runtime": 0.4605,
+    "eval_samples_per_second": 217.176,
+    "eval_steps_per_second": 8.687,
+    "epoch": 5.0
+  }
+}
